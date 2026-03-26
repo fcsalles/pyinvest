@@ -29,7 +29,7 @@ O programa calcula o rendimento para cada tipo de investimento e retorna os resu
 ## ▶️ Como executar
 
 ```bash
-python nome_do_arquivo.py
+python pyinvest.py
 ```
 
 ## 📈 Exemplo de uso
